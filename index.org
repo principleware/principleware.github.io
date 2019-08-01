@@ -1,4 +1,4 @@
-#+AUTHOR: Xiaolong Tang
+#+AUTHOR: Tom Tang
 #+EMAIL: principleware@gmail.com
 #+TITLE: Documentation
 #+OPTIONS: html-link-use-abs-url:nil html-postamble:auto
